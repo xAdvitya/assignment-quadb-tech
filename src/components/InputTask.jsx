@@ -42,7 +42,7 @@ function InputTask() {
       {showModal && (
         <div className="fixed inset-0 flex items-center justify-center bg-gray-500 bg-opacity-50 z-50">
           <div className="bg-white p-6 rounded-md">
-            <h2 className="text-xl font-bold mb-4">Add Task</h2>
+            <h2 className="text-xl font-bold mb-4">Add Ticket</h2>
             <input
               type="text"
               placeholder="Title"
