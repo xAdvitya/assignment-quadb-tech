@@ -58,7 +58,7 @@ const App = () => {
           />
           <SidebarItem
             icon={<NotebookPen size={20} />}
-            text={"ToDo"}
+            text={"Ticket"}
             path={"/todo"}
           />
         </Sidebar>
